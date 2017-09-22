@@ -2,11 +2,12 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="f1b38c87-7f47-4d03-94b1-9e0cc62a10c2" name="planets.progmem.de - kopaka" url="https://planets.progmem.de/">
-        <fileTransfer host="progmem.de" port="21" rootFolder="/web/planets.progmem.de" accessType="FTPS" password="dfdadfc6dfcbdfc4dfcfdfdedfd9df9bdf98df99df9e" username="kopaka">
+      <webServer id="f1b38c87-7f47-4d03-94b1-9e0cc62a10c2" name="planets.progmem.de" url="https://planets.progmem.de/">
+        <fileTransfer host="progmem.de" port="21" rootFolder="/home/progmem/domains/planets.progmem.de" password="dfccdfcfdfc9df98df9cdfc8df8bdffadfd8dfc5df9edf99df99df9a" username="progmem">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
