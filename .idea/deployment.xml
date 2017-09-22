@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="planets.progmem.de - kopaka">
+    <serverData>
+      <paths name="ReservierungssystemTennishalle">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="planets.progmem.de - kopaka">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/gamefiles" local="$PROJECT_DIR$" web="/gamefiles" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/public_html/gamefiles/dl" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f1b38c87-7f47-4d03-94b1-9e0cc62a10c2" name="planets.progmem.de - kopaka" url="https://planets.progmem.de/">
+        <fileTransfer host="progmem.de" port="21" rootFolder="/web/planets.progmem.de" accessType="FTPS" password="dfdadfc6dfcbdfc4dfcfdfdedfd9df9bdf98df99df9e" username="kopaka">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
